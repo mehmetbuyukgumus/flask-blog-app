@@ -1,3 +1,3 @@
 ## First Flask Project
-
-[](/Users/mehmetbuyukgumus/Desktop/Python/flask_project/docs/project.gif)
+### Overview
+![project](https://github.com/mehmetbuyukgumus/flask-blog-app/assets/62846517/f9059016-a9fe-4b48-96d4-5df3138fd820)
